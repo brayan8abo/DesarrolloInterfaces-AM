@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+    <h1>Capitulo 5.- Generación de interfaces a partir de documebtos XMLLenguajXM</h1>
+    <p>Lenguajes de descripcion de interfaces basados en XML</p>
+    <ol>
+        <li>GML</li>
+        <li>MathML</li>
+        <li>RSS</li>
+        <li>SVG</li>
+        <li>XHTML</li>
+    </ol>
+    
+</html>
